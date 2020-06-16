@@ -1,4 +1,6 @@
 # EncryptMethod
+Proof-of-concept to Bypass Windows Anti-Ransomware protection
+
 Encrypt method using Office interop objects
 
 Requirements:
