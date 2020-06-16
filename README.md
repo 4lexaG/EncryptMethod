@@ -1,7 +1,7 @@
 # EncryptMethod
 Encrypt method using Office interop objects
 
-requirements:
+Requirements:
 
 Microsoft Office 16.0 Object Library
 
